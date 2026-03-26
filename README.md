@@ -1,6 +1,5 @@
 # 🧠 Meningitis
-
-A high-contrast, neon-infused terminal color scheme. Deep slate backgrounds meet radioactive greens and the "Holy Grail" neon pink.
+hope this luk nice
 
 ---
 
@@ -8,7 +7,7 @@ A high-contrast, neon-infused terminal color scheme. Deep slate backgrounds meet
 
 ### Foot (`foot.ini`)
 ```ini
-[colors]
+[colors-dark]
 background=161c1e
 foreground=dcdccc
 
